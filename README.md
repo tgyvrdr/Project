@@ -1,7 +1,6 @@
 # Project
 In this project, it is aimed to classify Spectrogram images with the CNN algorithm using the "UrbanSounds8K" data set.
 
-* classID:
 * 0 = air_conditioner
 * 1 = car_horn
 * 2 = children_playing
